@@ -25,7 +25,7 @@ From this analysis, we can conclude seven major points:
      * Cycling empowers social communication in light of the fact that the male bikerider is continually in a hurry and many utilize this experience for cardio for the rec center.
      ![Checkout_times_by_Gender](Resources/Checkout_times_by_Gender.png) 
      
-     * Taking everything into account, this bicycle ridership diagram shows a positive effect that the city of Des Moines, Iowa will experienced through the personal satisfaction, the experience of happiness and the improvement to public transportation.
+     * Taking everything into account, this bicycle ridership diagram shows a positive effect that the city of Des Moines, Iowa will experienced through the  personal satisfaction, the experience of happiness and the improvement to public transportation.
      ![Ending_Location](Resources/Ending_Location.png)
 
 ## Summary
