@@ -20,7 +20,7 @@ From this analysis, we can conclude seven major points:
      ![Trips_by_Weekday](Resources/Trips_by_Weekday.png)
      
      * Cycling is easy and fun. So during one hour of the day, the cyclist is less stressful and more relaxed.
-     ![Checkout_times_by_User](Resources/Checkout_times_by_Users.png)
+     ![Checkout_times_by_Users](Resources/Checkout_times_by_Users.png)
      
      * Cycling empowers social communication in light of the fact that the male bikerider is continually in a hurry and many utilize this experience for cardio for the rec center.
      ![Checkout_times_by_Gender](Resources/Checkout_times_by_Gender.png) 
